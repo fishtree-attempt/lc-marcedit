@@ -1,3 +1,8 @@
+> **ATTENTION** This is an experimental test of [The Carpentries Workbench](https://carpentries.github.io/workbench) lesson infrastructure.
+> It was automatically converted from the source lesson via [the lesson transition script](https://github.com/carpentries/lesson-transition/).
+> 
+> If anything seems off, please contact Zhian Kamvar [zkamvar@carpentries.org](mailto:zkamvar@carpentries.org)
+
 # Maintainers for Library Carpentry: MarcEdit
 
 - [Owen Stephens](https://github.com/ostephens)
@@ -9,7 +14,7 @@ Lesson Maintainers communication is via Slack.
 
 ## Library Carpentry
 
-[Library Carpentry](https://librarycarpentry.org) is a software and data skills training programme for people working in library- and information-related roles. It builds on the work of [Software Carpentry](http://software-carpentry.org/) and [Data Carpentry](http://www.datacarpentry.org/). Library Carpentry is an official Lesson Program of [The Carpentries](https://carpentries.org/).
+[Library Carpentry](https://librarycarpentry.org) is a software and data skills training programme for people working in library- and information-related roles. It builds on the work of [Software Carpentry](https://software-carpentry.org/) and [Data Carpentry](https://www.datacarpentry.org/). Library Carpentry is an official Lesson Program of [The Carpentries](https://carpentries.org/).
 
 ## License
 
@@ -30,7 +35,7 @@ Library Carpentry is authored and maintained through issues, commits, and pull r
 
 ## Citation
 
-Library Carpentry: MarcEdit (2019, September). https://github.com/LibraryCarpentry/lc-marcedit.
+Library Carpentry: MarcEdit (2019, September). [https://github.com/LibraryCarpentry/lc-marcedit](https://github.com/LibraryCarpentry/lc-marcedit).
 
 ## Acknowledgement
 
@@ -38,4 +43,6 @@ Some of the content in this MarcEdit lesson was initially based on CC-BY materia
 
 ## Checking and Previewing the Lesson
 
-To check and preview a lesson locally, see [http://carpentries.github.io/lesson-example/07-checking/index.html](http://carpentries.github.io/lesson-example/07-checking/index.html).
+To check and preview a lesson locally, see [http://carpentries.github.io/lesson-example/07-checking/index.html](https://carpentries.github.io/lesson-example/07-checking/index.html).
+
+
